@@ -1,1 +1,1 @@
-Login criado
+Login criado com as validações funcionando
